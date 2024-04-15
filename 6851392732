@@ -1,0 +1,22 @@
+{
+  "id": "1",
+  "duyuruMetin": " \r\n",
+  "reklamBanner": "0",
+  "reklamGecis": "0",
+  "reklamMetin": "Destek için açılan reklama tıklayın 15 saniye gezindikten sonra uygulamaya giriş yapabilirsiniz ",
+  "reklamMetinHata": "Reklama tıklamadınız tekrar deneyin!",
+  "zorunluReklamTime": "3",
+  "zorunluReklamDurum": false,
+  "bannerReklamDurum": false,
+  "reklamAcilmayanDurum": false,
+  "reklamAcilmayanDakika": 100,
+  "reklamClickCount": 0,
+  "unityGameId": "5593893",
+  "unityRewardedId": "Rewarded_Android",
+  "updateVersiyon": "1.1.3",
+  "updateTitle": "Yeni Güncelleme Var!",
+  "updateYenilik": "YENİLİKLER\r\n1) Reklam sorunu giderildi\r\n2) Tek renk koyu tema eklendi\r\nUygulama içinde güncelleme yapamayanlar sitemizden veya telegram grubumuzdan indirebilir.\r\nSitemiz: anka-tv.blogspot.com\r\nTelegram: t.me/ankatvduyuru",
+  "updateLink": "https://ankakingg.xyz/apk/update.apk",
+  "userReklamView": false,
+  "userDurum": true
+}
