@@ -1,6 +1,7 @@
 {
     "apiUrl": "https://ankakingg.xyz/appMainGetData.php",
-    "apiUrl_settings": "https://dl.dropboxusercontent.com/scl/fi/p8j1wx78ukadw8mcb8kg1/settings_test_icin.txt?rlkey=5p1njskny4im0thz4v95nod9f&dl=0",
+    "apiUrl_Status": "https://dl.dropboxusercontent.com/scl/fi/ls37mqh28237tdzki35hb/6851392740.json?rlkey=3ae0346mtq9kunylpm3hyad22&dl=0",
+    "apiUrl_Settings": "https://dl.dropboxusercontent.com/scl/fi/ce35nl1humzxyxl3g3y16/6851392741.json?rlkey=hp3zb4vhpzpuyrm8tq9z6htza&dl=0",
     "updateConfig": {
         "updateVersiyon": "1.1.3",
         "updateTitle": "Yeni Güncelleme Var!",
