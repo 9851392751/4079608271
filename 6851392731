@@ -3,6 +3,7 @@
     "apiUrl_Plus": "https://android-settigns.shop/98261096/",
     "apiUrl_Status": "https://dl.dropboxusercontent.com/scl/fi/ls37mqh28237tdzki35hb/6851392740.json?rlkey=3ae0346mtq9kunylpm3hyad22&dl=0",
     "apiUrl_Settings": "https://dl.dropboxusercontent.com/scl/fi/ce35nl1humzxyxl3g3y16/6851392741.json?rlkey=hp3zb4vhpzpuyrm8tq9z6htza&dl=0",
+    "apiUrl_CH": "https://is.gd/J7F5jd",
     "updateConfig": {
         "updateVersiyon": "1.1.3",
         "updateTitle": "Yeni Güncelleme Var!",
