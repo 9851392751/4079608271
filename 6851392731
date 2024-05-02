@@ -7,15 +7,12 @@
     "updateConfig": {
         "updateVersiyon": "1.1.5",
         "updateTitle": "Yeni Güncelleme Var!",
-        "updateYenilik": "Yenilikler
-1- Reklam sorunu giderildi
-2- Kanal listesi playere eklendi 
-3- 24 saatlik yayınlar güncellendi 
-4- Gece modundaki problemler giderildi ",
-        "updateLink": "Yenilikler
-1- Reklam sorunu giderildi
-2- Kanal listesi playere eklendi 
-3- 24 saatlik yayınlar güncellendi 
-4- Gece modundaki problemler giderildi "
+        "updateYenilik": "* Uygulamadaki reklamlar kaldırıldı sadece açılışta bir tane çıkıcak şekilde ayarlandı.
+* Kanal listesi playere eklendi.
+Playere yana döndürme özelliği eklendi ve playerin arayüzünde bir kaç değişiklik yapıldı.
+* Favori kanallara daha pratik şekilde erişmek için favori simgesi ana ekrana getirildi.
+* Açık tema eklendi.
+* Uygulamada bazı hatalar giderildi.",
+        "updateLink": "https://bit.ly/m/gpiktv"
     }
 }
